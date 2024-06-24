@@ -49,9 +49,12 @@
 <!-- https://icons8.com -->
 <div align="center">
  
- 
+ <a href="https://leetcode.com/u/dont-wait/" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="dontwait-leetcode" />
+  </a>
+
   <a href="https://www.linkedin.com/in/sang-nguyen-tan-279a9930b/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dontwait-linkedin" />
   </a>
   
   <a href="mailto:sangnguyentan154@gmail.com" target="top">
