@@ -59,6 +59,10 @@
   <a href="mailto:sangnguyentan154@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dontwait-email" />
   </a>
+<a>
+  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=dont-wait&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+
+</a>
 </div>
 
 <br>
