@@ -7,6 +7,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/typescript-282C34?logo=typescript&logoColor=4169E1" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
