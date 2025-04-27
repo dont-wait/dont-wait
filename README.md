@@ -7,11 +7,12 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=4169E1" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=4169E1" alt="Docker logo" title="Docker" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=4169E1" alt="Docker logo" title="Docker" height="25" /></span>
-
+&nbsp;
+<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=black" alt="Prisma logo" title="Prisma" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
@@ -20,7 +21,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=0F0F11" alt="Angular logo" title="Angular" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=red" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
 &nbsp;
