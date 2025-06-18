@@ -82,7 +82,7 @@
 > <a href="./Certificate/24-11-2024.jpg">
 >    <img height="100px" width="150px" src="./Certificate/24-11-2024.jpg" alt=""/>
 > </a>
-> <a href="./Certificate/certificate-java-basic.png>
+> <a href="./Certificate/certificate-java-basic.png">
 >    <img height="100px" width="150px" src="./Certificate/certificate-java-basic.png" alt=""/>
 > </a>
 > <a href="./Certificate/certificate-restapi-inter.png">
