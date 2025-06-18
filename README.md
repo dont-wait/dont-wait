@@ -83,12 +83,12 @@
 >    <img height="100px" width="150px" src="./Certificate/24-11-2024.jpg" alt=""/>
 > </a>
 
-> <a href="./Certificate/java_basic certificate.pdf>
->    <img height="100px" width="150px" src="./Certificate/java_basic certificate.pdf" alt=""/>
+> <a href="./Certificate/certificate-java-basic.png>
+>    <img height="100px" width="150px" src="./Certificate/certificate-java-basic.png" alt=""/>
 > </a>
 
-> <a href="./Certificate/rest_api_intermediate certificate.pdf">
->    <img height="100px" width="150px" src="./Certificate/rest_api_intermediate certificate.pdf" alt=""/>
+> <a href="./Certificate/certificate-restapi-inter.png">
+>    <img height="100px" width="150px" src="./Certificate/certificate-restapi-inter.png" alt=""/>
 > </a>
 > 
 ![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
