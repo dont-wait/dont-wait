@@ -77,7 +77,7 @@
   <img src="svg/dontwait-quote.svg" width="846" height="150" alt="dontwait" />
 </a>
 
-# 🏆 Certificates
+<h2 align="center"> 🏆 Certificates </h2>
 <details>
   <summary>HackerRank Certificates</summary>
 
