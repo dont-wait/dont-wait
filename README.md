@@ -78,27 +78,41 @@
 </a>
 
 # 🏆 Certificates
->
-> <a href="./Certificate/24-11-2024.jpg">
->    <img height="100px" width="150px" src="./Certificate/24-11-2024.jpg" alt=""/>
-> </a>
-> <a href="./Certificate/certificate-introduce-software-engineer.jpg">
->    <img height="100px" width="150px" src="./Certificate/certificate-introduce-software-engineer.jpg" alt=""/>
-> </a>
-> <a href="./Certificate/certificate-java-basic.png">
->    <img height="100px" width="150px" src="./Certificate/certificate-java-basic.png" alt=""/>
-> </a>
-> <a href="./Certificate/certificate-restapi-inter.png">
->    <img height="100px" width="150px" src="./Certificate/certificate-restapi-inter.png" alt=""/>
-> </a>
-> <a href="./Certificate/certificate-sql-basic.png">
->    <img height="100px" width="150px" src="./Certificate/certificate-sql-basic.png" alt=""/>
-> </a>
-> <a href="./Certificate/certificate-sql-inter.png">
->    <img height="100px" width="150px" src="./Certificate/certificate-sql-inter.png" alt=""/>
-> </a>
-> <a href="./Certificate/certificate-SVNCKH.jpg">
->    <img height="100px" width="150px" src="./Certificate/certificate-SVNCKH.jpg" alt=""/>
-> </a>
+<details>
+  <summary>HackerRank Certificates</summary>
+
+  <a href="./Certificate/certificate-java-basic.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-java-basic.png" alt="Java Basic"/>
+  </a>
+  <a href="./Certificate/certificate-restapi-inter.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-restapi-inter.png" alt="REST API Intermediate"/>
+  </a>
+  <a href="./Certificate/certificate-sql-basic.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-sql-basic.png" alt="SQL Basic"/>
+  </a>
+  <a href="./Certificate/certificate-sql-inter.png">
+    <img height="100px" width="150px" src="./Certificate/certificate-sql-inter.png" alt="SQL Intermediate"/>
+  </a>
+</details>
+
+<details>
+  <summary>Udemy Certificates</summary>
+
+  <a href="./Certificate/certificate-introduce-software-engineer.jpg">
+    <img height="100px" width="150px" src="./Certificate/certificate-introduce-software-engineer.jpg" alt="Intro Software Engineer"/>
+  </a>
+  <a href="./Certificate/24-11-2024.jpg">
+    <img height="100px" width="150px" src="./Certificate/24-11-2024.jpg" alt="MongoDB Certificate"/>
+  </a>
+</details>
+
+<details>
+  <summary>In University Certificates</summary>
+
+  <a href="./Certificate/certificate-SVNCKH.jpg">
+    <img height="100px" width="150px" src="./Certificate/certificate-SVNCKH.jpg" alt="SVNCKH"/>
+  </a>
+</details>
+
 
 ![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
