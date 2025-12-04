@@ -65,9 +65,6 @@
   <!-- Commit Activity Graph -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dont-wait&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff" />
   
-  <!-- Profile Details (Timeline Graph) -->
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dont-wait&theme=github_dark" />
-  
 </div>
 
 <br>
