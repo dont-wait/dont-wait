@@ -5,13 +5,19 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/springboot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/springsecurity-282C34?logo=springsecurity&logoColor=6DB33F" alt="Spring Security logo" title="Spring Security" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=4169E1" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=4169E1" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=black" alt="Prisma logo" title="Prisma" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=5163BA" alt="Prisma logo" title="Prisma" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
@@ -29,12 +35,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=663399" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+
+
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
