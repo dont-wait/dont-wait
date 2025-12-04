@@ -45,13 +45,29 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="dont-wait">
-    <img width="315" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dont-wait&hide=c%23,powershell,Mathematica&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="dont-wait">
-    <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dont-wait&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+<div align="center">
+  
+  <!-- GitHub Profile Summary Cards (thay Stats Card) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dont-wait&theme=github_dark" />
+  
+  <!-- Top Languages từ Summary Cards (thay Languages Card) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dont-wait&theme=github_dark" />
+  
+  <!-- Most Commit Language (Pie Chart) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dont-wait&theme=github_dark" />
+  
+  <!-- Productive Time (Graph theo giờ) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dont-wait&theme=github_dark&utcOffset=7" />
+  
+  <!-- GitHub Streak Stats -->
+  <img width="98%" src="https://streak-stats.demolab.com/?user=dont-wait&theme=react&hide_border=true&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" />
+  
+  <!-- Commit Activity Graph -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dont-wait&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff" />
+  
+  <!-- Profile Details (Timeline Graph) -->
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dont-wait&theme=github_dark" />
+  
 </div>
 
 <br>
