@@ -47,23 +47,22 @@
 <br>
 <div align="center">
   
-  <!-- GitHub Profile Summary Cards (thay Stats Card) -->
+  <!-- Stats Cards -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dont-wait&theme=github_dark" />
-  
-  <!-- Top Languages từ Summary Cards (thay Languages Card) -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dont-wait&theme=github_dark" />
   
-  <!-- Most Commit Language (Pie Chart) -->
+  <!-- Language Pie Chart & Productive Time -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dont-wait&theme=github_dark" />
-  
-  <!-- Productive Time (Graph theo giờ) -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dont-wait&theme=github_dark&utcOffset=7" />
   
-  <!-- GitHub Streak Stats -->
-  <img width="98%" src="https://streak-stats.demolab.com/?user=dont-wait&theme=react&hide_border=true&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" />
+  <!-- Contribution Graph (Full width) -->
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dont-wait&theme=github_dark" />
   
-  <!-- Commit Activity Graph -->
+  <!-- Activity Graph (Full width) -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dont-wait&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff" />
+  
+  <!-- Streak Stats (Full width) -->
+  <img width="98%" src="https://streak-stats.demolab.com/?user=dont-wait&theme=react&hide_border=true&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" />
   
 </div>
 
